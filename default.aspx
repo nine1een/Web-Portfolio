@@ -9,7 +9,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no"/>
 
-		<title>Justin Solomon: Web Dev & Programmers</title>
+		<title>Justin Solomon: Dev</title>
 
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
 		<link rel="stylesheet" href="assets/css/ionicons.min.css"/>
@@ -29,7 +29,7 @@
     <script>
         $(function(){
             $(".typed").typed({
-            strings: ["Web Developer", "C# Developer", "Photographer"],
+            strings: ["Web Developer", "C# Developer", "Photographer", "Coding Enthusiast"],
             typeSpeed: 50,
             loop: true,
             cursorChar: "|",
@@ -38,6 +38,7 @@
             });
         });
     </script>
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 			<!--[if lt IE 9]>
 				<script src="assets/js/html5shiv.js"></script>
